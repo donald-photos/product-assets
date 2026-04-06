@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/constructor/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/constructor/favicon-32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/constructor/favicon-180.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/constructor/favicon-192.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Конструктор</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <script type="module" crossorigin src="/constructor/assets/index-B0zW4e4E.js?v=1775476661"></script>
+    <link rel="stylesheet" crossorigin href="/constructor/assets/index-Cf5Rgewq.css?v=1772710506">
+  </head>
+  <body class="antialiased">
+    <div id="root"></div>
+  <script src="/constructor/assets/keitaro-tracking.js?v=1"></script>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"eae9c57f81474d8fa4089ccd7d85060c","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
